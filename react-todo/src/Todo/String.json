@@ -1,0 +1,12 @@
+{
+    "header" : "Todo List in React",
+
+    "pivots": {
+        "tasktab": "Tasks", 
+        "taskformtab": "Task Form",
+        "completedtab": "Completed"
+    },
+    "deleteConfirm" : "Are you sure you want to delete this task?",
+    "addTaskBtn" : "Add Task",
+    "updateTaskBtn" : "Update Task"
+}
